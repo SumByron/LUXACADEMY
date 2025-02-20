@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "age": 28,
+            "email": "alice.johnson@example.com",
+            "address": {
+                "street": "123 Maple St",
+                "city": "Springfield",
+                "state": "IL",
+                "zip": "62704"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Bob Smith",
+            "age": 34,
+            "email": "bob.smith@example.com",
+            "address": {
+                "street": "456 Oak St",
+                "city": "Greenfield",
+                "state": "CA",
+                "zip": "93927"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Charlie Davis",
+            "age": 22,
+            "email": "charlie.davis@example.com",
+            "address": {
+                "street": "789 Pine St",
+                "city": "Bluefield",
+                "state": "TX",
+                "zip": "75001"
+            }
+        }
+    ]
+}
